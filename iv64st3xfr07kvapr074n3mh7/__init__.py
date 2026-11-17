@@ -1,4 +1,5 @@
-from importlib.metadata import version, PackageNotFoundError
+from importlib.metadata import PackageNotFoundError, version
+
 from .iv64st3xfr07kvapr074n3mh7 import iv64st3xfr07kvapr074n3mh7 as _
 
 try:
