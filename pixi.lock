@@ -126,7 +126,7 @@ environments:
         - pypi: https://files.pythonhosted.org/packages/ac/5e/145a02bf2b9f66981108caf6cc9e78917e31e4caca14d1e3ccd3ff2c7293/pydantic_core-2.50.4-cp315-cp315-manylinux2014_x86_64.manylinux_2_17_x86_64.whl
         - pypi: https://files.pythonhosted.org/packages/de/0c/ea2544850a7c135e15033a5c7a8e7211136184b7ae63e2239d557c2b3019/typing_inspection-0.4.5-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/f8/89/57958f2499b0c838c7a7423c42ac0370bb26e63c907a8ed01b11d5bae7d2/sqlalchemy-2.1.9-cp315-cp315-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl
-        - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.6/skkrfl6asevwuubvfioii3hlm-0.0.6-py3-none-any.whl
+        - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.7/skkrfl6asevwuubvfioii3hlm-0.0.7-py3-none-any.whl
       linux-aarch64:
         - conda: https://conda.anaconda.org/conda-forge/linux-aarch64/_openmp_mutex-4.5-20_gnu.conda
         - conda: https://conda.anaconda.org/conda-forge/linux-aarch64/alsa-lib-1.2.16.1-h5bc82ec_1.conda
@@ -242,7 +242,7 @@ environments:
         - pypi: https://files.pythonhosted.org/packages/72/b8/b864503789ef5c58597d2a7b4adbee62c26440ab1e682581fc6838df8947/pydantic-2.14.3-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/99/91/8acff4f5e50511b911bbccb72b8628a49c68ce14148cd9f6431094859a90/annotated_types-0.8.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/de/0c/ea2544850a7c135e15033a5c7a8e7211136184b7ae63e2239d557c2b3019/typing_inspection-0.4.5-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.6/skkrfl6asevwuubvfioii3hlm-0.0.6-py3-none-any.whl
+        - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.7/skkrfl6asevwuubvfioii3hlm-0.0.7-py3-none-any.whl
       win-64:
         - conda: https://conda.anaconda.org/conda-forge/noarch/ca-certificates-2026.10.23-h4c7d964_0.conda
         - conda: https://conda.anaconda.org/conda-forge/noarch/font-ttf-dejavu-sans-mono-2.37-hab24e00_0.tar.bz2
@@ -307,7 +307,7 @@ environments:
         - pypi: https://files.pythonhosted.org/packages/99/91/8acff4f5e50511b911bbccb72b8628a49c68ce14148cd9f6431094859a90/annotated_types-0.8.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/c0/3c/0582532b90a12492471977bdbca1317eca5144f6342ea581d2cee73ccd35/pydantic_core-2.50.4-cp315-cp315-win_amd64.whl
         - pypi: https://files.pythonhosted.org/packages/de/0c/ea2544850a7c135e15033a5c7a8e7211136184b7ae63e2239d557c2b3019/typing_inspection-0.4.5-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.6/skkrfl6asevwuubvfioii3hlm-0.0.6-py3-none-any.whl
+        - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.7/skkrfl6asevwuubvfioii3hlm-0.0.7-py3-none-any.whl
   dev:
     channels:
       - url: https://conda.anaconda.org/conda-forge/
@@ -476,7 +476,7 @@ environments:
         - pypi: https://files.pythonhosted.org/packages/fa/e8/0485850748dfdba9443f4151c7b2442cfa4987ba6cd871038eb5d6b8eca9/wcwidth-0.9.4-cp310-abi3-manylinux2014_x86_64.manylinux_2_17_x86_64.whl
         - pypi: https://files.pythonhosted.org/packages/fc/86/ce4288122111c11bb2483a962357baa9793817d48ac1e99ce5ff47384efe/markdown_gfm_admonition-0.3.0-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/fd/dc/e72a1449544aeffa3dbe878c6340bcec98ba4eebabe7a592414064b0ae8d/zensical-0.0.47-cp310-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-        - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.6/skkrfl6asevwuubvfioii3hlm-0.0.6-py3-none-any.whl
+        - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.7/skkrfl6asevwuubvfioii3hlm-0.0.7-py3-none-any.whl
       linux-aarch64:
         - conda: https://conda.anaconda.org/conda-forge/linux-aarch64/_openmp_mutex-4.5-20_gnu.conda
         - conda: https://conda.anaconda.org/conda-forge/linux-aarch64/alsa-lib-1.2.16.1-h5bc82ec_1.conda
@@ -638,7 +638,7 @@ environments:
         - pypi: https://files.pythonhosted.org/packages/f1/d9/7fb5aa316bc299258e68c73ba3bddbc499654a07f151cba08f6153988714/pathspec-1.1.1-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/f9/44/a63b178a08d5bca1f4cfdef7305344195015fb6d5ff19be514b3a8a24f52/prek-0.5.11-py3-none-manylinux_2_28_aarch64.whl
         - pypi: https://files.pythonhosted.org/packages/fc/86/ce4288122111c11bb2483a962357baa9793817d48ac1e99ce5ff47384efe/markdown_gfm_admonition-0.3.0-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.6/skkrfl6asevwuubvfioii3hlm-0.0.6-py3-none-any.whl
+        - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.7/skkrfl6asevwuubvfioii3hlm-0.0.7-py3-none-any.whl
       win-64:
         - conda: https://conda.anaconda.org/conda-forge/noarch/ca-certificates-2026.10.23-h4c7d964_0.conda
         - conda: https://conda.anaconda.org/conda-forge/noarch/font-ttf-dejavu-sans-mono-2.37-hab24e00_0.tar.bz2
@@ -743,7 +743,7 @@ environments:
         - pypi: https://files.pythonhosted.org/packages/f1/d9/7fb5aa316bc299258e68c73ba3bddbc499654a07f151cba08f6153988714/pathspec-1.1.1-py3-none-any.whl
         - pypi: https://files.pythonhosted.org/packages/f9/7a/7daaeadfdf7dc2941c8b931f9c6c83396d1da45634cec1a28f8d85a57708/zensical-0.0.47-cp310-abi3-win_amd64.whl
         - pypi: https://files.pythonhosted.org/packages/fc/86/ce4288122111c11bb2483a962357baa9793817d48ac1e99ce5ff47384efe/markdown_gfm_admonition-0.3.0-py3-none-any.whl
-        - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.6/skkrfl6asevwuubvfioii3hlm-0.0.6-py3-none-any.whl
+        - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.7/skkrfl6asevwuubvfioii3hlm-0.0.7-py3-none-any.whl
 packages:
   - conda: https://conda.anaconda.org/conda-forge/linux-64/_openmp_mutex-4.5-20_gnu.conda
     build_number: 20
@@ -5311,7 +5311,7 @@ packages:
   - pypi: .
     name: iv64st3xfr07kvapr074n3mh7
     requires_dist:
-      - skkrfl6asevwuubvfioii3hlm>=0.0.6,<0.0.7
+      - skkrfl6asevwuubvfioii3hlm>=0.0.7,<0.0.8
     requires_python: ">=3.15"
   - pypi: https://files.pythonhosted.org/packages/02/f0/35e94ecd6eab935705e68cfb33af06d27db4693a49214171a9adfcecb756/prek-0.5.11-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl
     name: prek
@@ -5875,9 +5875,9 @@ packages:
       - pyyaml>=6.0.2
       - tomli>=2.4.0
     requires_python: ">=3.10"
-  - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.6/skkrfl6asevwuubvfioii3hlm-0.0.6-py3-none-any.whl
+  - pypi: https://github.com/jevangoh/skkrfl6asevwuubvfioii3hlm/releases/download/v0.0.7/skkrfl6asevwuubvfioii3hlm-0.0.7-py3-none-any.whl
     name: skkrfl6asevwuubvfioii3hlm
-    version: 0.0.6
+    version: 0.0.7
     index: https://jevangoh.github.io/as1oocnl0leb61sj1yew20lt2/
     requires_dist:
       - sqlalchemy>=2.1.6,<3
